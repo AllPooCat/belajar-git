@@ -1,5 +1,5 @@
 BELAJAR GIT :
 - step by step belajar GIT
 - apa saja yang perlu diperhatikan 
-- rekomendasi software GIT
+- membuat vlog mengenai GIT
 - membuat forum diskusi mengenai GIT
