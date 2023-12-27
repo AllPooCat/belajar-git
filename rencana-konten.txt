@@ -1,3 +1,5 @@
 RENCANA KONTEN :
 - Cloud Computing
 - Cyber Security
+- Mobile Programming
+- Jaringan Dasar
