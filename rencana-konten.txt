@@ -2,4 +2,4 @@ RENCANA KONTEN :
 - Cloud Computing
 - Cyber Security
 - Mobile Programming
-- Jaringan Dasar
+- Pengolahan Citra dan Pola
